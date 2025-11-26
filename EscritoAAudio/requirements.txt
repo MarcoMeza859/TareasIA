@@ -1,0 +1,8 @@
+paddlepaddle
+paddleocr
+torch
+transformers
+scipy
+soundfile
+opencv-python
+pillow
